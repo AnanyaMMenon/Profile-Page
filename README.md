@@ -50,8 +50,8 @@ Run the following command in your terminal or Git Bash:
 git clone https://github.com/AnanyaMMenon/Profile-Page.git
 cd Profile-Page
 
-
-INSTALL DEPENDENCIES
+---
+### ✅ ** INSTALL DEPENDENCIES**
 flutter pub get
 flutter run
 

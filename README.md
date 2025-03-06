@@ -1,8 +1,3 @@
-Here’s the **corrected Markdown** to properly separate the "Install Dependencies" section, similar to "Step 2".  
-
-### **📝 Updated README.md (Copy & Paste)**  
-
-```md
 # 🌟 Profile Page - Flutter App
 
 ## 📌 Overview

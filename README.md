@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS 442 MP2: Profile Page
 
 ## 1. Overview
@@ -206,3 +207,6 @@ This machine problem is worth 28 points, broken down as follows:
   demonstrated in the
   "[Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)"
   codelab assigned for the previous week.
+=======
+# Profile-Page
+>>>>>>> 854f7946d76cbb3a8e11548659bb250bfa954625

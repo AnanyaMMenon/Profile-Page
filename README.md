@@ -1,3 +1,8 @@
+Here’s the **corrected Markdown** to properly separate the "Install Dependencies" section, similar to "Step 2".  
+
+### **📝 Updated README.md (Copy & Paste)**  
+
+```md
 # 🌟 Profile Page - Flutter App
 
 ## 📌 Overview
@@ -14,7 +19,6 @@ The primary objective of this project is to:
 
 ![Profile Page Demo](assets/demo.gif)  
 ![image](https://github.com/user-attachments/assets/2083ea4e-4401-42ab-86d9-16de0a98d6d1)
-
 
 ---
 
@@ -49,9 +53,67 @@ Run the following command in your terminal or Git Bash:
 ```bash
 git clone https://github.com/AnanyaMMenon/Profile-Page.git
 cd Profile-Page
+```
 
 ---
-### ✅ ** INSTALL DEPENDENCIES**
+
+### ✅ **Step 3: Install Dependencies**
+Run the following command to install the required packages:
+```bash
 flutter pub get
+```
+
+---
+
+### ✅ **Step 4: Run the App**
+To launch the app in debug mode, run:
+```bash
 flutter run
+```
+Make sure a **physical device** or **emulator** is running.
+
+---
+
+### ✅ **Step 5: Build the App (Optional)**
+If you want to create a release build, run:
+```bash
+flutter build apk  # For Android
+flutter build ios  # For iOS (requires macOS)
+```
+The built files will be available in the `build/` directory.
+
+---
+
+## 📌 Required Widgets Used
+This project includes **at least one instance** of each of the following widgets:
+- `AppBar`
+- `Column`
+- `Container`
+- `Image`
+- `ListView`
+- `MaterialApp`
+- `Row`
+- `Scaffold`
+- `SizedBox`
+- `Text`
+
+---
+
+## 🔄 Future Enhancements
+📌 Add **interactive elements** (buttons, links).  
+📌 Improve **UI with animations & themes**.  
+📌 Add **dark mode support**.  
+
+---
+
+
+
+---
+
+## 🎯 Author
+👩‍💻 **Ananya M Menon**  
+🔗 [GitHub Profile](https://github.com/AnanyaMMenon)  
+
+---
+
 
